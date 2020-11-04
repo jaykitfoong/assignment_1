@@ -1,3 +1,4 @@
 # assignment_1
 
-hi neda
+git commit
+git init
